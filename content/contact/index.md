@@ -7,7 +7,7 @@ header_img: "img/img1.jpg"
 
 {{< rawhtml >}}
 <form action={FORM_ENDPOINT} method="POST" target="_blank">
-  <p><b>If your enquiry is urgent, call us on <a href="tel:07598503402">07598 503 402</a>, otherwise, please use the form below.</b></p>
+  <p><b>If your enquiry is urgent, call us on <a href="tel:07598503402">07598 503 402</a>, otherwise, please use the form below. </b></p>
 
   <div class="mb-3 pt-0">
     <label for="name">Name</label>
