@@ -13,7 +13,7 @@ img_404 = "img/404-bg.jpg"
 identifier = "home"
 name = "Home"
 url = "/"
-weight = -100
+weight = -99
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
