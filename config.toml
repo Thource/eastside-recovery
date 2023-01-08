@@ -5,7 +5,7 @@ title = 'Eastside Recovery'
 theme = 'puppet'
 
 [params]
-img_home = "img/img1.jpg"
+img_home = "img/img4.jpg"
 img_404 = "img/404-bg.jpg"
 
 [menu]
